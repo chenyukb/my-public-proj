@@ -6,9 +6,6 @@
 # separate terms of service, privacy policy, and support
 # documentation.
 
-name: Java CI with Maven
-run-name: 我们的流水线运行名字
-
 on:
   workflow_dispatch
 
